@@ -1,0 +1,39 @@
+# 编译产物
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.ilk
+
+# Visual Studio
+*.log
+*.tlog
+*.recipe
+*.user
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.vcxproj.user
+
+# 输出目录
+output/
+bin/
+build/
+
+# 临时文件
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# 无扩展名的可执行文件（编译产物）
+501ds
+502bahuang
+5041
+bao
+slide
+1
